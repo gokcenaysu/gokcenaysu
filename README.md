@@ -28,3 +28,7 @@ You can contact me
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/65aa824e98ee79a514500bed767198506af50724d5389c56c63d97a29d3651dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/65aa824e98ee79a514500bed767198506af50724d5389c56c63d97a29d3651dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"></a>
   </p>
   
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokcenaysu&hide=python&layout=compact&show_icons=true&theme=light">
+  </p>
+  

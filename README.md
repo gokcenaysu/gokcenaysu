@@ -2,8 +2,8 @@
 
 ### About Me
 
-- I am Aysu
-- Studying comupter engineering.  
+- I am studying comupter engineering at Istanbul Gelisim University
+- I am developing an hrms project in 'Java/React' camp according to the requests of Engin teacher.
 
 ### Links
 

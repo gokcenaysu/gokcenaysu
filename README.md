@@ -31,4 +31,4 @@ You can contact me
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokcenaysu&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
-  
+

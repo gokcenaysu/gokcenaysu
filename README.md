@@ -2,7 +2,7 @@
 
 ### About Me
 
-- I am studying comupter engineering at Istanbul Gelisim University
+- I am studying computer engineering at Istanbul Gelisim University
 
 ### Links
 

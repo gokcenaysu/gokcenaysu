@@ -2,7 +2,7 @@
 
 ### About Me
 
-- I am studying computer engineering at Istanbul Gelisim University
+ I studied computer engineering at Istanbul Gelisim University. Working as an intern at Testinium
 
 ### Links
 

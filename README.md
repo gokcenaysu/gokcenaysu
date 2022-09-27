@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **microservices and python**
 
-- 🤝 I’m looking for help with [microservices-structure](https://github.com/gokcenaysu/microservices-structure)
+- 🤝 I’m looking for help with [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
 
 - 💬 Ask me about **java, spring**
 

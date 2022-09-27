@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aysu</h1>
 <h3 align="center">I work as intern at Testinium.</h3>
 
-- 🔭 I’m currently working on [HRMS-FrontEnd](https://github.com/gokcenaysu/HRMS-FrontEnd) and [CarRental-BackEnd](https://github.com/gokcenaysu/CarRental-BackEnd)
+- 🔭 I’m currently working on [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
 
 - 🌱 I’m currently learning **microservices and python**
 

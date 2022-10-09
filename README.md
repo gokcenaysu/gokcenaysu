@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aysu</h1>
-<h3 align="center">I work as traine at Testinium.</h3>
+<h3 align="center">I worked as traine at Testinium.</h3>
 
 - 🔭 I’m currently working on [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
 

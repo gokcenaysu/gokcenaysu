@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aysu</h1>
 <h3 align="center">I worked as traine at Testinium.</h3>
 
-- 🔭 I’m currently working on [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
+<!-- - 🔭 I’m currently working on [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
+- 🤝 I’m looking for help with [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices) -->
 
-- 🌱 I’m currently learning **microservices and python**
-
-- 🤝 I’m looking for help with [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
+- 🌱 I’m currently learning **angular and python**
 
 - 💬 Ask me about **java, spring**
 

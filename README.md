@@ -4,7 +4,7 @@
 <!-- - 🔭 I’m currently working on [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices)
 - 🤝 I’m looking for help with [currency-exchange-microservices](https://github.com/gokcenaysu/currency-exchange-microservices) -->
 
-- 🌱 I’m currently learning **angular and python**
+- 🌱 I’m currently learning **react and python**
 
 - 💬 Ask me about **java, spring**
 
